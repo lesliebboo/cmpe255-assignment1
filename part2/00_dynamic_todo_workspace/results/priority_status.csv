@@ -1,0 +1,10 @@
+priority,status,task_count
+High,Completed,6
+High,In Progress,8
+High,To Do,2
+Low,Completed,9
+Low,In Progress,9
+Low,To Do,4
+Medium,Completed,11
+Medium,In Progress,6
+Medium,To Do,5

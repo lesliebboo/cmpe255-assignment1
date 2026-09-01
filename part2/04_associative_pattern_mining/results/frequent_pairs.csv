@@ -1,0 +1,593 @@
+item_a,item_b,count,support
+other vegetables,whole milk,222,0.014836596939116486
+rolls/buns,whole milk,209,0.013967787208447505
+soda,whole milk,174,0.011628684087415625
+whole milk,yogurt,167,0.011160863463209249
+other vegetables,rolls/buns,158,0.010559379803515338
+other vegetables,soda,145,0.009690570072846355
+sausage,whole milk,134,0.008955423377664907
+tropical fruit,whole milk,123,0.008220276682483459
+other vegetables,yogurt,121,0.008086613646995923
+rolls/buns,soda,121,0.008086613646995923
+rolls/buns,yogurt,117,0.007819287576020852
+root vegetables,whole milk,113,0.00755196150504578
+citrus fruit,whole milk,107,0.007150972398583172
+bottled beer,whole milk,107,0.007150972398583172
+bottled water,whole milk,107,0.007150972398583172
+pip fruit,whole milk,99,0.006616320256633028
+pastry,whole milk,97,0.006482657221145492
+shopping bags,whole milk,95,0.006348994185657956
+other vegetables,tropical fruit,94,0.006282162667914188
+rolls/buns,tropical fruit,91,0.006081668114682885
+canned beer,whole milk,90,0.006014836596939116
+other vegetables,sausage,90,0.006014836596939116
+sausage,soda,89,0.005948005079195348
+soda,yogurt,87,0.005814342043707813
+rolls/buns,root vegetables,86,0.005747510525964045
+sausage,yogurt,86,0.005747510525964045
+newspapers,whole milk,84,0.005613847490476508
+bottled water,other vegetables,82,0.005480184454988973
+soda,tropical fruit,81,0.005413352937245205
+rolls/buns,sausage,80,0.005346521419501437
+other vegetables,root vegetables,79,0.005279689901757669
+domestic eggs,whole milk,79,0.005279689901757669
+root vegetables,soda,79,0.005279689901757669
+frankfurter,whole milk,79,0.005279689901757669
+tropical fruit,yogurt,78,0.005212858384013901
+frankfurter,other vegetables,77,0.005146026866270133
+pork,whole milk,75,0.005012363830782597
+other vegetables,pip fruit,74,0.004945532313038829
+pip fruit,rolls/buns,74,0.004945532313038829
+other vegetables,shopping bags,74,0.004945532313038829
+citrus fruit,other vegetables,72,0.0048118692775512934
+bottled water,soda,72,0.0048118692775512934
+rolls/buns,shopping bags,71,0.004745037759807526
+citrus fruit,rolls/buns,70,0.004678206242063757
+bottled beer,other vegetables,70,0.004678206242063757
+bottled water,rolls/buns,70,0.004678206242063757
+beef,whole milk,70,0.004678206242063757
+butter,whole milk,70,0.004678206242063757
+citrus fruit,yogurt,69,0.004611374724319989
+whipped/sour cream,whole milk,69,0.004611374724319989
+brown bread,whole milk,67,0.004477711688832453
+fruit/vegetable juice,whole milk,66,0.004410880171088686
+shopping bags,soda,66,0.004410880171088686
+root vegetables,yogurt,64,0.00427721713560115
+canned beer,rolls/buns,63,0.004210385617857381
+curd,whole milk,62,0.004143554100113613
+other vegetables,whipped/sour cream,62,0.004143554100113613
+margarine,whole milk,61,0.0040767225823698456
+pastry,soda,61,0.0040767225823698456
+canned beer,other vegetables,60,0.004009891064626078
+bottled beer,rolls/buns,60,0.004009891064626078
+pip fruit,soda,59,0.00394305954688231
+other vegetables,pork,59,0.00394305954688231
+pastry,rolls/buns,59,0.00394305954688231
+canned beer,yogurt,58,0.0038762280291385416
+coffee,whole milk,57,0.003809396511394774
+bottled water,yogurt,57,0.003809396511394774
+frozen vegetables,whole milk,57,0.003809396511394774
+citrus fruit,soda,56,0.003742564993651006
+fruit/vegetable juice,rolls/buns,56,0.003742564993651006
+root vegetables,tropical fruit,55,0.0036757334759072377
+frankfurter,rolls/buns,55,0.0036757334759072377
+other vegetables,pastry,55,0.0036757334759072377
+newspapers,other vegetables,55,0.0036757334759072377
+pastry,yogurt,54,0.00360890195816347
+pip fruit,yogurt,54,0.00360890195816347
+shopping bags,yogurt,53,0.003542070440419702
+curd,other vegetables,53,0.003542070440419702
+domestic eggs,other vegetables,53,0.003542070440419702
+bottled water,tropical fruit,53,0.003542070440419702
+bottled water,root vegetables,52,0.0034752389226759338
+pork,rolls/buns,51,0.003408407404932166
+domestic eggs,rolls/buns,51,0.003408407404932166
+chicken,whole milk,51,0.003408407404932166
+soda,whipped/sour cream,51,0.003408407404932166
+bottled beer,yogurt,51,0.003408407404932166
+bottled beer,sausage,50,0.003341575887188398
+brown bread,rolls/buns,50,0.003341575887188398
+root vegetables,sausage,50,0.003341575887188398
+root vegetables,shopping bags,50,0.003341575887188398
+margarine,other vegetables,48,0.003207912851700862
+pastry,sausage,48,0.003207912851700862
+canned beer,soda,47,0.003141081333957094
+butter,soda,47,0.003141081333957094
+white bread,whole milk,47,0.003141081333957094
+bottled water,sausage,47,0.003141081333957094
+frozen vegetables,other vegetables,47,0.003141081333957094
+brown bread,other vegetables,46,0.0030742498162133263
+sausage,tropical fruit,46,0.0030742498162133263
+frankfurter,soda,46,0.0030742498162133263
+hamburger meat,whole milk,46,0.0030742498162133263
+pork,yogurt,46,0.0030742498162133263
+newspapers,rolls/buns,45,0.003007418298469558
+margarine,rolls/buns,45,0.003007418298469558
+pork,soda,45,0.003007418298469558
+bottled beer,soda,44,0.0029405867807257902
+chocolate,whole milk,44,0.0029405867807257902
+curd,sausage,44,0.0029405867807257902
+onions,whole milk,44,0.0029405867807257902
+rolls/buns,whipped/sour cream,44,0.0029405867807257902
+whipped/sour cream,yogurt,44,0.0029405867807257902
+fruit/vegetable juice,other vegetables,44,0.0029405867807257902
+citrus fruit,tropical fruit,43,0.0028737552629820224
+pastry,root vegetables,43,0.0028737552629820224
+cream cheese ,whole milk,43,0.0028737552629820224
+chicken,rolls/buns,43,0.0028737552629820224
+bottled water,pastry,43,0.0028737552629820224
+butter,rolls/buns,43,0.0028737552629820224
+butter,other vegetables,43,0.0028737552629820224
+brown bread,soda,43,0.0028737552629820224
+newspapers,yogurt,43,0.0028737552629820224
+pastry,tropical fruit,42,0.002806923745238254
+beef,other vegetables,42,0.002806923745238254
+chocolate,rolls/buns,42,0.002806923745238254
+curd,soda,42,0.002806923745238254
+ham,whole milk,41,0.0027400922274944863
+frozen vegetables,rolls/buns,41,0.0027400922274944863
+shopping bags,tropical fruit,41,0.0027400922274944863
+curd,rolls/buns,41,0.0027400922274944863
+berries,other vegetables,40,0.0026732607097507185
+pip fruit,root vegetables,40,0.0026732607097507185
+waffles,whole milk,39,0.0026064291920069507
+bottled water,citrus fruit,39,0.0026064291920069507
+margarine,soda,39,0.0026064291920069507
+coffee,other vegetables,39,0.0026064291920069507
+other vegetables,white bread,39,0.0026064291920069507
+frankfurter,yogurt,38,0.0025395976742631824
+domestic eggs,soda,38,0.0025395976742631824
+bottled beer,bottled water,38,0.0025395976742631824
+canned beer,tropical fruit,38,0.0025395976742631824
+bottled beer,tropical fruit,38,0.0025395976742631824
+UHT-milk,whole milk,38,0.0025395976742631824
+newspapers,root vegetables,38,0.0025395976742631824
+tropical fruit,whipped/sour cream,37,0.0024727661565194146
+root vegetables,whipped/sour cream,37,0.0024727661565194146
+canned beer,sausage,37,0.0024727661565194146
+bottled beer,root vegetables,37,0.0024727661565194146
+coffee,soda,37,0.0024727661565194146
+sugar,whole milk,37,0.0024727661565194146
+napkins,whole milk,36,0.0024059346387756467
+coffee,rolls/buns,36,0.0024059346387756467
+long life bakery product,whole milk,36,0.0024059346387756467
+brown bread,canned beer,36,0.0024059346387756467
+dessert,whole milk,36,0.0024059346387756467
+newspapers,soda,35,0.0023391031210318785
+brown bread,yogurt,35,0.0023391031210318785
+curd,yogurt,34,0.0022722716032881106
+berries,whole milk,34,0.0022722716032881106
+other vegetables,salty snack,33,0.002205440085544343
+frankfurter,root vegetables,33,0.002205440085544343
+pastry,pip fruit,33,0.002205440085544343
+butter,yogurt,33,0.002205440085544343
+hamburger meat,other vegetables,33,0.002205440085544343
+beef,yogurt,33,0.002205440085544343
+meat,whole milk,33,0.002205440085544343
+bottled water,frankfurter,33,0.002205440085544343
+chicken,other vegetables,33,0.002205440085544343
+fruit/vegetable juice,yogurt,33,0.002205440085544343
+citrus fruit,root vegetables,33,0.002205440085544343
+frozen vegetables,root vegetables,32,0.002138608567800575
+fruit/vegetable juice,tropical fruit,32,0.002138608567800575
+meat,other vegetables,32,0.002138608567800575
+pip fruit,sausage,32,0.002138608567800575
+candy,whole milk,32,0.002138608567800575
+UHT-milk,other vegetables,32,0.002138608567800575
+frozen meals,other vegetables,32,0.002138608567800575
+napkins,other vegetables,32,0.002138608567800575
+domestic eggs,tropical fruit,32,0.002138608567800575
+chicken,soda,32,0.002138608567800575
+fruit/vegetable juice,soda,32,0.002138608567800575
+margarine,yogurt,32,0.002138608567800575
+sausage,whipped/sour cream,32,0.002138608567800575
+bottled water,domestic eggs,32,0.002138608567800575
+rolls/buns,white bread,32,0.002138608567800575
+cream cheese ,other vegetables,32,0.002138608567800575
+citrus fruit,pastry,32,0.002138608567800575
+canned beer,root vegetables,31,0.0020717770500568067
+domestic eggs,yogurt,31,0.0020717770500568067
+coffee,yogurt,31,0.0020717770500568067
+dessert,other vegetables,31,0.0020717770500568067
+pip fruit,tropical fruit,31,0.0020717770500568067
+citrus fruit,whipped/sour cream,31,0.0020717770500568067
+frozen vegetables,yogurt,31,0.0020717770500568067
+bottled beer,pastry,31,0.0020717770500568067
+frozen vegetables,sausage,31,0.0020717770500568067
+dessert,rolls/buns,30,0.002004945532313039
+domestic eggs,root vegetables,30,0.002004945532313039
+bottled water,pip fruit,30,0.002004945532313039
+frozen vegetables,soda,30,0.002004945532313039
+newspapers,pastry,30,0.002004945532313039
+bottled water,shopping bags,30,0.002004945532313039
+butter,root vegetables,30,0.002004945532313039
+brown bread,pastry,30,0.002004945532313039
+coffee,root vegetables,30,0.002004945532313039
+salty snack,whole milk,29,0.0019381140145692708
+beverages,whole milk,29,0.0019381140145692708
+sausage,shopping bags,29,0.0019381140145692708
+frozen meals,whole milk,29,0.0019381140145692708
+butter,sausage,29,0.0019381140145692708
+bottled water,curd,29,0.0019381140145692708
+rolls/buns,salty snack,29,0.0019381140145692708
+butter,citrus fruit,29,0.0019381140145692708
+hamburger meat,rolls/buns,29,0.0019381140145692708
+grapes,whole milk,29,0.0019381140145692708
+margarine,root vegetables,29,0.0019381140145692708
+ice cream,whole milk,29,0.0019381140145692708
+oil,whole milk,29,0.0019381140145692708
+canned beer,pastry,28,0.001871282496825503
+margarine,sausage,28,0.001871282496825503
+curd,tropical fruit,28,0.001871282496825503
+canned beer,shopping bags,28,0.001871282496825503
+newspapers,tropical fruit,28,0.001871282496825503
+bottled beer,canned beer,28,0.001871282496825503
+pip fruit,shopping bags,28,0.001871282496825503
+beverages,soda,28,0.001871282496825503
+cream cheese ,rolls/buns,28,0.001871282496825503
+hard cheese,whole milk,28,0.001871282496825503
+chocolate,other vegetables,28,0.001871282496825503
+canned beer,newspapers,28,0.001871282496825503
+newspapers,sausage,27,0.001804450979081735
+oil,soda,27,0.001804450979081735
+newspapers,shopping bags,27,0.001804450979081735
+beef,soda,27,0.001804450979081735
+fruit/vegetable juice,root vegetables,27,0.001804450979081735
+frankfurter,pip fruit,27,0.001804450979081735
+bottled water,newspapers,27,0.001804450979081735
+bottled water,whipped/sour cream,27,0.001804450979081735
+domestic eggs,sausage,27,0.001804450979081735
+oil,other vegetables,27,0.001804450979081735
+UHT-milk,rolls/buns,27,0.001804450979081735
+chicken,yogurt,27,0.001804450979081735
+bottled water,butter,27,0.001804450979081735
+brown bread,sausage,27,0.001804450979081735
+beef,citrus fruit,27,0.001804450979081735
+citrus fruit,shopping bags,27,0.001804450979081735
+fruit/vegetable juice,sausage,27,0.001804450979081735
+other vegetables,waffles,26,0.0017376194613379669
+napkins,rolls/buns,26,0.0017376194613379669
+bottled beer,newspapers,26,0.0017376194613379669
+ice cream,rolls/buns,26,0.0017376194613379669
+beverages,other vegetables,26,0.0017376194613379669
+onions,rolls/buns,26,0.0017376194613379669
+napkins,pastry,26,0.0017376194613379669
+napkins,yogurt,26,0.0017376194613379669
+hygiene articles,whole milk,26,0.0017376194613379669
+citrus fruit,frankfurter,26,0.0017376194613379669
+brown bread,citrus fruit,26,0.0017376194613379669
+pork,root vegetables,26,0.0017376194613379669
+frankfurter,pastry,26,0.0017376194613379669
+bottled beer,fruit/vegetable juice,25,0.001670787943594199
+hard cheese,other vegetables,25,0.001670787943594199
+canned beer,pork,25,0.001670787943594199
+pip fruit,whipped/sour cream,25,0.001670787943594199
+hamburger meat,yogurt,25,0.001670787943594199
+brown bread,pork,25,0.001670787943594199
+beef,newspapers,25,0.001670787943594199
+cat food,whole milk,25,0.001670787943594199
+butter milk,whole milk,25,0.001670787943594199
+specialty bar,whole milk,25,0.001670787943594199
+bottled beer,citrus fruit,25,0.001670787943594199
+bottled beer,domestic eggs,25,0.001670787943594199
+other vegetables,specialty chocolate,25,0.001670787943594199
+beef,root vegetables,25,0.001670787943594199
+hamburger meat,soda,25,0.001670787943594199
+chewing gum,whole milk,25,0.001670787943594199
+bottled beer,butter,25,0.001670787943594199
+semi-finished bread,whole milk,25,0.001670787943594199
+bottled beer,frankfurter,25,0.001670787943594199
+other vegetables,specialty bar,25,0.001670787943594199
+berries,rolls/buns,25,0.001670787943594199
+chocolate,soda,25,0.001670787943594199
+brown bread,pip fruit,25,0.001670787943594199
+hard cheese,rolls/buns,25,0.001670787943594199
+long life bakery product,rolls/buns,25,0.001670787943594199
+curd,whipped/sour cream,25,0.001670787943594199
+beef,rolls/buns,24,0.001603956425850431
+pip fruit,pork,24,0.001603956425850431
+grapes,other vegetables,24,0.001603956425850431
+chocolate,yogurt,24,0.001603956425850431
+cream cheese ,root vegetables,24,0.001603956425850431
+cream cheese ,yogurt,24,0.001603956425850431
+citrus fruit,frozen vegetables,24,0.001603956425850431
+ham,other vegetables,24,0.001603956425850431
+canned beer,pip fruit,24,0.001603956425850431
+frankfurter,margarine,24,0.001603956425850431
+rolls/buns,waffles,24,0.001603956425850431
+bottled water,coffee,23,0.0015371249081066632
+brown bread,frankfurter,23,0.0015371249081066632
+bottled beer,pip fruit,23,0.0015371249081066632
+salty snack,yogurt,23,0.0015371249081066632
+bottled beer,brown bread,23,0.0015371249081066632
+frozen meals,soda,23,0.0015371249081066632
+beverages,sausage,23,0.0015371249081066632
+bottled water,brown bread,23,0.0015371249081066632
+coffee,tropical fruit,23,0.0015371249081066632
+canned beer,fruit/vegetable juice,23,0.0015371249081066632
+canned beer,citrus fruit,23,0.0015371249081066632
+pork,tropical fruit,23,0.0015371249081066632
+pork,shopping bags,23,0.0015371249081066632
+onions,other vegetables,23,0.0015371249081066632
+domestic eggs,newspapers,23,0.0015371249081066632
+UHT-milk,tropical fruit,23,0.0015371249081066632
+beef,brown bread,23,0.0015371249081066632
+napkins,soda,23,0.0015371249081066632
+pork,sausage,23,0.0015371249081066632
+butter,tropical fruit,23,0.0015371249081066632
+newspapers,whipped/sour cream,23,0.0015371249081066632
+soda,white bread,23,0.0015371249081066632
+pastry,pork,23,0.0015371249081066632
+canned beer,white bread,23,0.0015371249081066632
+frankfurter,shopping bags,23,0.0015371249081066632
+canned beer,whipped/sour cream,23,0.0015371249081066632
+butter,pastry,23,0.0015371249081066632
+pastry,whipped/sour cream,23,0.0015371249081066632
+frankfurter,whipped/sour cream,22,0.0014702933903628951
+frankfurter,sausage,22,0.0014702933903628951
+dessert,soda,22,0.0014702933903628951
+processed cheese,whole milk,22,0.0014702933903628951
+dessert,sausage,22,0.0014702933903628951
+bottled water,canned beer,22,0.0014702933903628951
+domestic eggs,shopping bags,22,0.0014702933903628951
+bottled beer,shopping bags,22,0.0014702933903628951
+citrus fruit,pip fruit,22,0.0014702933903628951
+cream cheese ,soda,22,0.0014702933903628951
+berries,soda,22,0.0014702933903628951
+fruit/vegetable juice,pastry,22,0.0014702933903628951
+sliced cheese,whole milk,22,0.0014702933903628951
+candy,rolls/buns,22,0.0014702933903628951
+processed cheese,rolls/buns,22,0.0014702933903628951
+onions,soda,22,0.0014702933903628951
+frozen meals,rolls/buns,22,0.0014702933903628951
+margarine,tropical fruit,22,0.0014702933903628951
+coffee,frankfurter,22,0.0014702933903628951
+bottled water,sugar,22,0.0014702933903628951
+curd,root vegetables,22,0.0014702933903628951
+brown bread,tropical fruit,22,0.0014702933903628951
+butter,fruit/vegetable juice,21,0.001403461872619127
+hygiene articles,other vegetables,21,0.001403461872619127
+butter,newspapers,21,0.001403461872619127
+grapes,soda,21,0.001403461872619127
+butter,frankfurter,21,0.001403461872619127
+domestic eggs,frankfurter,21,0.001403461872619127
+beef,whipped/sour cream,21,0.001403461872619127
+coffee,pastry,21,0.001403461872619127
+chicken,tropical fruit,21,0.001403461872619127
+chocolate,tropical fruit,21,0.001403461872619127
+coffee,shopping bags,21,0.001403461872619127
+citrus fruit,napkins,21,0.001403461872619127
+fruit/vegetable juice,pip fruit,21,0.001403461872619127
+cream cheese ,tropical fruit,21,0.001403461872619127
+bottled water,chocolate,21,0.001403461872619127
+butter,margarine,21,0.001403461872619127
+misc. beverages,whole milk,21,0.001403461872619127
+bottled beer,frozen vegetables,21,0.001403461872619127
+citrus fruit,specialty chocolate,21,0.001403461872619127
+butter milk,soda,21,0.001403461872619127
+other vegetables,sliced cheese,21,0.001403461872619127
+sausage,white bread,21,0.001403461872619127
+chocolate,sausage,21,0.001403461872619127
+berries,yogurt,21,0.001403461872619127
+coffee,domestic eggs,21,0.001403461872619127
+salty snack,soda,21,0.001403461872619127
+chewing gum,yogurt,21,0.001403461872619127
+curd,pastry,21,0.001403461872619127
+bottled water,margarine,21,0.001403461872619127
+bottled water,pork,21,0.001403461872619127
+beef,margarine,21,0.001403461872619127
+soda,specialty chocolate,21,0.001403461872619127
+detergent,whole milk,21,0.001403461872619127
+oil,rolls/buns,20,0.0013366303548753592
+pastry,shopping bags,20,0.0013366303548753592
+citrus fruit,pork,20,0.0013366303548753592
+meat,root vegetables,20,0.0013366303548753592
+canned beer,frozen vegetables,20,0.0013366303548753592
+hygiene articles,rolls/buns,20,0.0013366303548753592
+curd,frankfurter,20,0.0013366303548753592
+misc. beverages,rolls/buns,20,0.0013366303548753592
+frozen vegetables,pip fruit,20,0.0013366303548753592
+margarine,pastry,20,0.0013366303548753592
+coffee,sausage,20,0.0013366303548753592
+root vegetables,waffles,20,0.0013366303548753592
+margarine,pork,20,0.0013366303548753592
+chocolate,pip fruit,20,0.0013366303548753592
+hamburger meat,tropical fruit,20,0.0013366303548753592
+long life bakery product,soda,20,0.0013366303548753592
+citrus fruit,coffee,20,0.0013366303548753592
+specialty chocolate,whole milk,20,0.0013366303548753592
+specialty chocolate,tropical fruit,20,0.0013366303548753592
+frankfurter,tropical fruit,20,0.0013366303548753592
+butter,shopping bags,20,0.0013366303548753592
+canned beer,frankfurter,20,0.0013366303548753592
+beef,bottled water,20,0.0013366303548753592
+bottled water,chicken,20,0.0013366303548753592
+brown bread,root vegetables,20,0.0013366303548753592
+onions,root vegetables,20,0.0013366303548753592
+citrus fruit,fruit/vegetable juice,20,0.0013366303548753592
+red/blush wine,rolls/buns,20,0.0013366303548753592
+meat,rolls/buns,20,0.0013366303548753592
+curd,pip fruit,20,0.0013366303548753592
+frozen meals,yogurt,20,0.0013366303548753592
+flour,whole milk,20,0.0013366303548753592
+domestic eggs,pastry,20,0.0013366303548753592
+beef,frozen vegetables,19,0.0012697988371315912
+onions,yogurt,19,0.0012697988371315912
+hamburger meat,root vegetables,19,0.0012697988371315912
+ham,rolls/buns,19,0.0012697988371315912
+chicken,pastry,19,0.0012697988371315912
+chicken,shopping bags,19,0.0012697988371315912
+brown bread,shopping bags,19,0.0012697988371315912
+chicken,whipped/sour cream,19,0.0012697988371315912
+margarine,pip fruit,19,0.0012697988371315912
+beef,curd,19,0.0012697988371315912
+hard cheese,yogurt,19,0.0012697988371315912
+root vegetables,white bread,19,0.0012697988371315912
+bottled water,white bread,19,0.0012697988371315912
+beef,shopping bags,19,0.0012697988371315912
+soft cheese,yogurt,19,0.0012697988371315912
+citrus fruit,domestic eggs,19,0.0012697988371315912
+misc. beverages,yogurt,19,0.0012697988371315912
+butter milk,yogurt,19,0.0012697988371315912
+white wine,whole milk,19,0.0012697988371315912
+ice cream,other vegetables,19,0.0012697988371315912
+butter milk,other vegetables,19,0.0012697988371315912
+newspapers,pip fruit,19,0.0012697988371315912
+candy,soda,19,0.0012697988371315912
+rolls/buns,specialty chocolate,19,0.0012697988371315912
+napkins,tropical fruit,19,0.0012697988371315912
+UHT-milk,soda,19,0.0012697988371315912
+ham,yogurt,19,0.0012697988371315912
+other vegetables,sugar,19,0.0012697988371315912
+curd,shopping bags,19,0.0012697988371315912
+soda,specialty bar,19,0.0012697988371315912
+butter milk,rolls/buns,19,0.0012697988371315912
+frozen meals,sausage,19,0.0012697988371315912
+berries,tropical fruit,19,0.0012697988371315912
+root vegetables,sliced cheese,18,0.0012029673193878234
+rolls/buns,specialty bar,18,0.0012029673193878234
+shopping bags,whipped/sour cream,18,0.0012029673193878234
+brown bread,curd,18,0.0012029673193878234
+cream cheese ,sausage,18,0.0012029673193878234
+other vegetables,soft cheese,18,0.0012029673193878234
+specialty bar,yogurt,18,0.0012029673193878234
+citrus fruit,newspapers,18,0.0012029673193878234
+brown bread,domestic eggs,18,0.0012029673193878234
+bottled beer,whipped/sour cream,18,0.0012029673193878234
+candy,yogurt,18,0.0012029673193878234
+ice cream,soda,18,0.0012029673193878234
+beef,pastry,18,0.0012029673193878234
+onions,tropical fruit,18,0.0012029673193878234
+packaged fruit/vegetables,rolls/buns,18,0.0012029673193878234
+long life bakery product,yogurt,18,0.0012029673193878234
+canned beer,domestic eggs,18,0.0012029673193878234
+cream cheese ,shopping bags,18,0.0012029673193878234
+chocolate,root vegetables,18,0.0012029673193878234
+chicken,citrus fruit,18,0.0012029673193878234
+ham,soda,18,0.0012029673193878234
+canned beer,curd,18,0.0012029673193878234
+beverages,rolls/buns,18,0.0012029673193878234
+dessert,yogurt,18,0.0012029673193878234
+canned beer,margarine,18,0.0012029673193878234
+soda,sugar,18,0.0012029673193878234
+citrus fruit,sausage,18,0.0012029673193878234
+soft cheese,whole milk,18,0.0012029673193878234
+misc. beverages,other vegetables,18,0.0012029673193878234
+domestic eggs,pork,18,0.0012029673193878234
+grapes,rolls/buns,18,0.0012029673193878234
+dessert,shopping bags,18,0.0012029673193878234
+bottled water,fruit/vegetable juice,18,0.0012029673193878234
+bottled beer,curd,17,0.0011361358016440553
+butter,pip fruit,17,0.0011361358016440553
+berries,pip fruit,17,0.0011361358016440553
+sausage,sliced cheese,17,0.0011361358016440553
+butter,whipped/sour cream,17,0.0011361358016440553
+beef,butter,17,0.0011361358016440553
+salty snack,sausage,17,0.0011361358016440553
+herbs,whole milk,17,0.0011361358016440553
+tropical fruit,waffles,17,0.0011361358016440553
+UHT-milk,yogurt,17,0.0011361358016440553
+UHT-milk,sausage,17,0.0011361358016440553
+curd,pork,17,0.0011361358016440553
+herbs,yogurt,17,0.0011361358016440553
+beef,tropical fruit,17,0.0011361358016440553
+margarine,whipped/sour cream,17,0.0011361358016440553
+waffles,yogurt,17,0.0011361358016440553
+long life bakery product,other vegetables,17,0.0011361358016440553
+canned beer,chicken,17,0.0011361358016440553
+other vegetables,red/blush wine,17,0.0011361358016440553
+sliced cheese,soda,17,0.0011361358016440553
+citrus fruit,margarine,17,0.0011361358016440553
+candy,other vegetables,17,0.0011361358016440553
+beef,domestic eggs,17,0.0011361358016440553
+citrus fruit,curd,17,0.0011361358016440553
+ham,tropical fruit,17,0.0011361358016440553
+chicken,curd,17,0.0011361358016440553
+frankfurter,fruit/vegetable juice,17,0.0011361358016440553
+citrus fruit,white bread,17,0.0011361358016440553
+berries,root vegetables,16,0.0010693042839002875
+hard cheese,pip fruit,16,0.0010693042839002875
+frozen vegetables,tropical fruit,16,0.0010693042839002875
+bottled beer,margarine,16,0.0010693042839002875
+bottled beer,pork,16,0.0010693042839002875
+long life bakery product,tropical fruit,16,0.0010693042839002875
+flour,tropical fruit,16,0.0010693042839002875
+onions,whipped/sour cream,16,0.0010693042839002875
+beef,fruit/vegetable juice,16,0.0010693042839002875
+processed cheese,root vegetables,16,0.0010693042839002875
+beverages,bottled water,16,0.0010693042839002875
+chocolate,citrus fruit,16,0.0010693042839002875
+grapes,sausage,16,0.0010693042839002875
+long life bakery product,sausage,16,0.0010693042839002875
+bottled water,dessert,16,0.0010693042839002875
+white bread,yogurt,16,0.0010693042839002875
+root vegetables,salty snack,16,0.0010693042839002875
+coffee,pip fruit,16,0.0010693042839002875
+brown bread,whipped/sour cream,16,0.0010693042839002875
+chicken,sausage,16,0.0010693042839002875
+hygiene articles,soda,16,0.0010693042839002875
+canned beer,chocolate,16,0.0010693042839002875
+misc. beverages,sausage,16,0.0010693042839002875
+detergent,yogurt,16,0.0010693042839002875
+bottled water,frozen vegetables,16,0.0010693042839002875
+grapes,root vegetables,16,0.0010693042839002875
+frankfurter,frozen vegetables,16,0.0010693042839002875
+beef,bottled beer,16,0.0010693042839002875
+chicken,pip fruit,16,0.0010693042839002875
+berries,bottled water,16,0.0010693042839002875
+berries,pastry,16,0.0010693042839002875
+UHT-milk,bottled water,16,0.0010693042839002875
+domestic eggs,fruit/vegetable juice,16,0.0010693042839002875
+curd,margarine,16,0.0010693042839002875
+cat food,rolls/buns,16,0.0010693042839002875
+pasta,whole milk,16,0.0010693042839002875
+frankfurter,newspapers,16,0.0010693042839002875
+bottled beer,hamburger meat,16,0.0010693042839002875
+dessert,tropical fruit,16,0.0010693042839002875
+oil,yogurt,16,0.0010693042839002875
+chewing gum,other vegetables,16,0.0010693042839002875
+napkins,root vegetables,16,0.0010693042839002875
+dessert,root vegetables,16,0.0010693042839002875
+frozen fish,whole milk,16,0.0010693042839002875
+detergent,rolls/buns,15,0.0010024727661565194
+hygiene articles,root vegetables,15,0.0010024727661565194
+bottled beer,chocolate,15,0.0010024727661565194
+bottled beer,chicken,15,0.0010024727661565194
+curd,dessert,15,0.0010024727661565194
+beef,frankfurter,15,0.0010024727661565194
+other vegetables,pot plants,15,0.0010024727661565194
+whipped/sour cream,white bread,15,0.0010024727661565194
+candy,citrus fruit,15,0.0010024727661565194
+fruit/vegetable juice,margarine,15,0.0010024727661565194
+cream cheese ,frankfurter,15,0.0010024727661565194
+chicken,domestic eggs,15,0.0010024727661565194
+salty snack,tropical fruit,15,0.0010024727661565194
+tropical fruit,white bread,15,0.0010024727661565194
+canned beer,coffee,15,0.0010024727661565194
+cat food,tropical fruit,15,0.0010024727661565194
+hamburger meat,pastry,15,0.0010024727661565194
+chicken,root vegetables,15,0.0010024727661565194
+butter,canned beer,15,0.0010024727661565194
+brown bread,butter,15,0.0010024727661565194
+rolls/buns,soft cheese,15,0.0010024727661565194
+brown bread,white bread,15,0.0010024727661565194
+chicken,margarine,15,0.0010024727661565194
+canned beer,salty snack,15,0.0010024727661565194
+pickled vegetables,whole milk,15,0.0010024727661565194
+UHT-milk,root vegetables,15,0.0010024727661565194
+other vegetables,semi-finished bread,15,0.0010024727661565194
+margarine,shopping bags,15,0.0010024727661565194
+hard cheese,root vegetables,15,0.0010024727661565194
+citrus fruit,cream cheese ,15,0.0010024727661565194
+meat,soda,15,0.0010024727661565194
+pot plants,whole milk,15,0.0010024727661565194
+butter milk,tropical fruit,15,0.0010024727661565194
+misc. beverages,root vegetables,15,0.0010024727661565194
+butter milk,shopping bags,15,0.0010024727661565194
+rolls/buns,seasonal products,15,0.0010024727661565194
+bottled water,onions,15,0.0010024727661565194
+chewing gum,soda,15,0.0010024727661565194
+butter milk,root vegetables,15,0.0010024727661565194
+domestic eggs,white bread,15,0.0010024727661565194
+beef,canned beer,15,0.0010024727661565194
+sugar,tropical fruit,15,0.0010024727661565194

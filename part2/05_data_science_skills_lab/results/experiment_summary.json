@@ -1,0 +1,9 @@
+{
+  "author": "Weihao Fu",
+  "dataset_rows": 569,
+  "numeric_features": 30,
+  "best_model": "Logistic Regression",
+  "test_accuracy": 0.9825,
+  "test_f1": 0.9861,
+  "test_roc_auc": 0.9954
+}

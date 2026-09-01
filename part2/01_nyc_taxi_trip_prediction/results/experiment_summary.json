@@ -1,0 +1,9 @@
+{
+  "author": "Weihao Fu",
+  "usable_rows": 6377,
+  "best_model": "Random Forest",
+  "test_rows": 1276,
+  "mae": 1.575,
+  "rmse": 3.171,
+  "r2": 0.925
+}

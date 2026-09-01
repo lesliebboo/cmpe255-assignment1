@@ -1,0 +1,11 @@
+{
+  "author": "Weihao Fu",
+  "transactions": 14963,
+  "unique_items": 167,
+  "frequent_pairs": 592,
+  "association_rules": 423,
+  "minimum_support": 0.001,
+  "minimum_confidence": 0.05,
+  "highest_lift_rule": "specialty chocolate -> citrus fruit",
+  "highest_lift": 1.654
+}

@@ -167,11 +167,30 @@ The most important lesson from this project is that an end-to-end data science t
 
 ## Part 2: Data Science Experiment Reproduction
 
-The first Part 2 experiment reproduces the instructor's customer clustering example using the public Mall Customer Segmentation dataset.
+Part 2 contains simplified, reproducible versions of instructor experiments 00 through 05. Every experiment includes runnable code, inspectable data, generated results, charts, and an English README.
 
-- [Customer Segmentation Using K-Means Clustering](part2/customer_segmentation/README.md)
-- Selected clusters: **5**
-- Silhouette score: **0.5547**
+| # | Experiment | Main Method | Key Output |
+|---:|---|---|---|
+| 00 | [Dynamic Todo Workspace](part2/00_dynamic_todo_workspace/README.md) | Operational analytics | Task completion dashboard |
+| 01 | [NYC Taxi Trip Prediction](part2/01_nyc_taxi_trip_prediction/README.md) | Regression model comparison | Fare predictions and test metrics |
+| 02 | [Nano LLM Transformer](part2/02_nano_llm_transformer/README.md) | Character modeling and causal attention | Loss curve and generated text |
+| 03 | [Customer Segmentation](part2/customer_segmentation/README.md) | K-Means clustering | Five customer segments; silhouette 0.5547 |
+| 04 | [Associative Pattern Mining](part2/04_associative_pattern_mining/README.md) | Frequent pairs and association rules | Support, confidence, and lift |
+| 05 | [Data Science Skills Lab](part2/05_data_science_skills_lab/README.md) | End-to-end classification | Cross-validation and test evaluation |
+
+### Run Part 2
+
+Install the repository requirements, then execute experiments individually from the repository root:
+
+```bash
+python part2/00_dynamic_todo_workspace/run_experiment.py
+python part2/01_nyc_taxi_trip_prediction/run_experiment.py
+python part2/02_nano_llm_transformer/run_experiment.py
+python part2/customer_segmentation/run_experiment.py
+python part2/04_associative_pattern_mining/run_experiment.py
+python part2/05_data_science_skills_lab/run_experiment.py
+```
+
 - YouTube Part 2 walkthrough: **To be added after recording**
 
 ## Acknowledgments

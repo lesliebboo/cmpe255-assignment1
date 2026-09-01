@@ -1,0 +1,10 @@
+{
+  "author": "Weihao Fu",
+  "architecture": "single-head causal self-attention with trained output projection",
+  "characters": 5628,
+  "vocabulary_size": 26,
+  "context_length": 24,
+  "embedding_dimension": 32,
+  "initial_loss": 3.349,
+  "final_loss": 2.3934
+}
