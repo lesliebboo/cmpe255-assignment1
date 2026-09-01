@@ -1,8 +1,0 @@
-Feature,Definition,Purpose
-FamilySize,SibSp + Parch + 1,Total family members traveling together
-IsAlone,1 when FamilySize = 1,Whether the passenger traveled alone
-Title,Extracted from Name,"Condensed social title: Mr, Mrs, Miss, Master, or Rare"
-CabinKnown,1 when Cabin is present,Whether cabin information was recorded
-TicketGroupSize,Count of shared Ticket,Number of passengers sharing the ticket
-FarePerPerson,Fare / TicketGroupSize,Approximate fare paid per person
-AgeGroup,Age placed into five stages,Interpretable age category
