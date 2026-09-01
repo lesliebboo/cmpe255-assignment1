@@ -165,9 +165,14 @@ The most important lesson from this project is that an end-to-end data science t
 - Medium article: **To be added**
 - YouTube end-to-end walkthrough: **To be added**
 
-## Part 2
+## Part 2: Data Science Experiment Reproduction
 
-Part 2, which replicates the instructor's additional data science examples, will be added to this repository in a separate directory before final submission.
+The first Part 2 experiment reproduces the instructor's customer clustering example using the public Mall Customer Segmentation dataset.
+
+- [Customer Segmentation Using K-Means Clustering](part2/customer_segmentation/README.md)
+- Selected clusters: **5**
+- Silhouette score: **0.5547**
+- YouTube Part 2 walkthrough: **To be added after recording**
 
 ## Acknowledgments
 

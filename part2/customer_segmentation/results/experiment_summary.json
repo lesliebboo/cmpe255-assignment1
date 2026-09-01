@@ -1,0 +1,13 @@
+{
+  "author": "Weihao Fu",
+  "dataset_rows": 200,
+  "features": [
+    "Annual Income (k$)",
+    "Spending Score (1-100)"
+  ],
+  "selected_k": 5,
+  "silhouette_score": 0.5547,
+  "davies_bouldin_score": 0.5722,
+  "calinski_harabasz_score": 248.65,
+  "random_state": 42
+}

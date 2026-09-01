@@ -1,0 +1,6 @@
+Cluster,Segment,customer_count,mean_age,mean_Annual Income (k$),mean_Spending Score (1-100),customer_share_percent
+0,Mainstream Customers,81,42.72,55.3,49.52,40.5
+1,Premium Customers,39,32.69,86.54,82.13,19.5
+2,Enthusiastic Shoppers,22,25.27,25.73,79.36,11.0
+3,Cautious Wealthy Customers,35,41.11,88.2,17.11,17.5
+4,Budget-Conscious Customers,23,45.22,26.3,20.91,11.5
