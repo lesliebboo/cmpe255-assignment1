@@ -5,6 +5,9 @@
 **AI coding assistant:** ChatGPT / Codex  
 **Part 1 status:** Completed  
 **Kaggle public score:** **0.76076**
+## Medium Article
+
+[From Raw Data to a Kaggle Submission: Titanic End-to-End Data Science Project](https://medium.com/@fuweihao101/from-raw-data-to-a-kaggle-submission-cdc0f1e2e4b5)
 
 ## Project Overview
 
