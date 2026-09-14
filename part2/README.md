@@ -3,7 +3,10 @@
 **Student:** Weihao Fu
 
 This directory contains six simplified but complete experiment reproductions. The scope emphasizes transparent Python workflows that can be executed and explained within an assignment demonstration.
+## YouTube Videos
 
+- Part 2 — Instructor Experiment Reproductions 00–05: https://youtu.be/FkxZant5xjM
+  
 | Experiment | Topic | Verified Result |
 |---|---|---|
 | 00 | Dynamic Todo Workspace | 60 tasks; 43.3% sample completion rate |
