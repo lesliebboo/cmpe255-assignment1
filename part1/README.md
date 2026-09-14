@@ -8,6 +8,9 @@
 ## Medium Article
 
 [From Raw Data to a Kaggle Submission: Titanic End-to-End Data Science Project](https://medium.com/@fuweihao101/from-raw-data-to-a-kaggle-submission-cdc0f1e2e4b5)
+## YouTube Videos
+
+- Part 1 — Titanic Survival Prediction: https://youtu.be/TO5L1EZtBiA
 
 ## Project Overview
 
